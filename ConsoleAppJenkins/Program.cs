@@ -6,7 +6,7 @@ namespace ConsoleAppJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bruno's Jenkins Pipeline Example");
         }
     }
 }
