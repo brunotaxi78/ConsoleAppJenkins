@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppJenkins", "Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{ED4158D7-1C60-4450-89ED-BFBFEFFBD7FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{4CB7247F-6BF7-4148-B09A-D75BC785CBB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{ED4158D7-1C60-4450-89ED-BFBFEFFBD7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4158D7-1C60-4450-89ED-BFBFEFFBD7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4158D7-1C60-4450-89ED-BFBFEFFBD7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB7247F-6BF7-4148-B09A-D75BC785CBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB7247F-6BF7-4148-B09A-D75BC785CBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB7247F-6BF7-4148-B09A-D75BC785CBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB7247F-6BF7-4148-B09A-D75BC785CBB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,9 +6,9 @@ namespace Lib
 {
     public class Class1
     {
-        public static string Execute(string value)
+        public static string Execute(string value, DateTime dt)
         {
-            return value + " - " + DateTime.Now.ToString();
+            return value + " - " + dt.ToString();
         }
     }
 }
