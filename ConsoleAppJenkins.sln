@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationJenkins", "WebApplicationJenkins\WebApplicationJenkins.csproj", "{35CC6ABC-48BC-4C4E-B7D6-962408EE8F5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIJenkins", "APIJenkins\APIJenkins.csproj", "{67710111-B80E-4161-9E83-AC4A7037F042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{35CC6ABC-48BC-4C4E-B7D6-962408EE8F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CC6ABC-48BC-4C4E-B7D6-962408EE8F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CC6ABC-48BC-4C4E-B7D6-962408EE8F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67710111-B80E-4161-9E83-AC4A7037F042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67710111-B80E-4161-9E83-AC4A7037F042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67710111-B80E-4161-9E83-AC4A7037F042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67710111-B80E-4161-9E83-AC4A7037F042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
